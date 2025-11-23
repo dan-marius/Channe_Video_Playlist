@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YouTube Playlist Access</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+
+<body>
+  <div class="container">
+    <h1>YouTube Playlists</h1>
+
+    <div id="loading" class="loading">
+      <p>Detecting channel...</p>
+    </div>
+
+    <div id="error" class="error" style="display: none;">
+      <p>🔄 Refreshing page...</p>
+      <p class="error-hint">Detecting channel ID</p>
+    </div>
+
+    <div id="links" class="links" style="display: none;">
+      <a id="allVideos" class="playlist-link" target="_blank">
+        <span class="icon">📺</span>
+        <span class="text">All Videos</span>
+      </a>
+
+      <a id="fullVideos" class="playlist-link" target="_blank">
+        <span class="icon">🎬</span>
+        <span class="text">Full-Length Only</span>
+      </a>
+
+      <a id="shorts" class="playlist-link" target="_blank">
+        <span class="icon">📱</span>
+        <span class="text">Shorts Only</span>
+      </a>
+    </div>
+
+    <div id="donate" class="donate" style="display: none;">
+      <a href="https://www.paypal.com/donate/?business=danmarius10@gmail.com&amount=3&currency_code=USD"
+        class="coffee-btn" target="_blank">
+        <span class="coffee-icon">☕</span>
+        <span class="coffee-text">Buy Me a Coffee</span>
+      </a>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+
+</html>

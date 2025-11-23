@@ -111,5 +111,6 @@ If you find this addon helpful, consider [buying me a coffee](https://www.paypal
 ## Author
 
 **Dan Marius**
-- Email: danmarius10@gmail.com
-- GitHub: [Your GitHub Profile]
+- Email: danmarius7@gmail.com
+- GitHub: [(https://github.com/dan-marius)]
+

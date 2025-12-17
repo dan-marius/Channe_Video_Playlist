@@ -96,7 +96,7 @@ This addon is built for **Firefox** using WebExtensions API (Manifest V2).
 
 ## License
 
-**MIT-based license with additional attribution requirements** - Copyright (c) 2025 Dan Marius
+**Custom Attribution License with additional attribution requirements** - Copyright (c) 2025 Dan Marius
 
 This project is open source, but with one important requirement:
 
@@ -113,6 +113,7 @@ If you find this addon helpful, consider [buying me a coffee](https://www.paypal
 **Dan Marius**
 - Email: danmarius7@gmail.com
 - GitHub: [(https://github.com/dan-marius)]
+
 
 
 

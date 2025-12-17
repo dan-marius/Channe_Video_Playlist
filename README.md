@@ -1,6 +1,6 @@
-# YouTube Playlist Quick Access
+# YouTube Channel Video Playlist Access
 
-A Firefox addon that provides quick access to YouTube channel playlists with one click.
+A Firefox addon that provides quick access to YouTube channel videos as a playlist with one click.
 
 ## Features
 
@@ -113,4 +113,5 @@ If you find this addon helpful, consider [buying me a coffee](https://www.paypal
 **Dan Marius**
 - Email: danmarius7@gmail.com
 - GitHub: [(https://github.com/dan-marius)]
+
 
